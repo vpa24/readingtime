@@ -1,0 +1,5 @@
+name: readingtime
+type: module
+description: Provides a Twig filter that calculates the time of reading for any given string.
+core: 8.x
+package: Custom

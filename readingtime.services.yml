@@ -1,0 +1,5 @@
+services:
+  readingtime.twig_extension:
+    class: Drupal\readingtime\TwigExtension\ReadingTimeExtension
+    tags:
+      - { name: twig.extension }
